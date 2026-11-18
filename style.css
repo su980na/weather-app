@@ -1,0 +1,36 @@
+
+#box{
+    
+display: flex;
+flex-wrap: wrap;
+text-align: center;
+    color: rgb(42, 77, 48);
+    border-radius:20px;
+    border: size 60px solid;
+    border-bottom-style:double ;
+    border-top-style:double ;
+    border-right-style:double ;
+    border-left-style:double ;
+  padding: 10px;
+  margin:10px;
+  gap: 15px;
+  box-sizing: border-box;
+}
+.temp{
+    
+    background-color: rgb(103, 136, 136);
+    color: blanchedalmond;
+    border: size 2px solid; 
+    border-bottom-style:double ;
+    border-top-style:double ;
+    border-right-style:double ;
+    border-left-style:double ;
+    border-radius: 40px;
+    padding: 95px;
+margin: 20px;
+padding-top: 2px;
+    height: 150px;
+    width: 250px;
+    font-size: medium;
+    
+}
